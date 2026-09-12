@@ -1,0 +1,2 @@
+Name of employee 1 is swastik, Salary of employee 1 is 6700
+Name of employee 2 is lakshay, Salary of employee 2 is 6900
